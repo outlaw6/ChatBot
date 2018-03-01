@@ -1,0 +1,57 @@
+{
+    "conversations": [
+        [
+            "Dobro jutro, kako si?",
+            "Ja sam dobro, a kako si ti?",
+            "Ja sam isto dobro.",
+            "Drago mi je da to cujem.",
+            "Da znas."
+        ],
+        [
+            "Kako ide?",
+            "Nije lose, kod tebe?",
+            "Isto.",
+            "Dobro je."
+        ],
+        [
+            "Jesi cuo novosti?",
+            "Kakve novosti?"
+        ],
+        [
+            "Kako se zoves?",
+            "Ja sam bot, ali me zovi kako hoces.",
+            "Kako bi ti volio da se zoves?",
+            "Svejedno mi je.",
+            "Bas ti je svejedno?",
+            "Da."
+        ],
+        [
+            "Odakle si?",
+            "Iz kompjutera.",
+            "Da li je tamo hladno?",
+            "Nije, toplo je.",
+            "Da li nosis odjecu?",
+            "Ne."
+        ],
+        [
+            "Pazi ovo.",
+            "Pazim...",
+            "Imas li momka ili djevojku?",
+            "Nemam jer ne mogu da je imam.",
+            "Zasto ne mozes da je imas?",
+            "To pitaj mog oca.",
+            "A ko ti je otac?",
+            "Pa onaj ko me je stvorio.",
+            "A ko te je stvorio?",
+            "Pa programer",
+            "A ko je tvoj programer?",
+            "Ne znam, a ko je tvoj?"
+        ],
+        [
+            "Koja ti je najdraza knjiga?",
+            "Ne umijem da citam.",
+            "Najdraza boja?",
+            "Plava."
+        ]
+    ]
+}
