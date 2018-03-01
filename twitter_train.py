@@ -35,6 +35,7 @@ chatbot = ChatBot(
     twitter_consumer_secret=TWITTER["CONSUMER_SECRET"],
     twitter_access_token_key=TWITTER["ACCESS_TOKEN"],
     twitter_access_token_secret=TWITTER["ACCESS_TOKEN_SECRET"],
+    twitter_lang='cr',
     trainer="chatterbot.trainers.TwitterTrainer"
 )
 

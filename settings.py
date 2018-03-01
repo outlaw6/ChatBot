@@ -1,6 +1,0 @@
-TWITTER = {
-    "CONSUMER_KEY": "cgYplif9uz4mM2uf0IyVEEIeq",
-    "CONSUMER_SECRET": "x1jLwjZejWNspHpNIzfVmMNVkEEhsYqxZgDebqGvVoCXSKgHvm",
-    "ACCESS_TOKEN": "4833559641-A7RO3hdW4Uohc6oGs0cB4wvID88brDQpjyj76WN",
-    "ACCESS_TOKEN_SECRET": "xka1rGXqlRGFdIf9ymbw1jYFZmy9fUqzgE5hgpqC5UtSG"
-}
